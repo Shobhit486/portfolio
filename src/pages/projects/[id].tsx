@@ -24,7 +24,7 @@ export default function Projects({
     <>
       <Meta
         title={name}
-        url={"/blog/" + id}
+        url={"/projects/" + id}
         image={name}
         description={description}
       />
@@ -34,7 +34,7 @@ export default function Projects({
       <Siblings
         next={next}
         prev={prev}
-        allItemsLink="/#blog"
+        allItemsLink="/#projects"
         allItemsText="All blogs"
       />
       <Footer />
@@ -44,7 +44,7 @@ export default function Projects({
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const projects = getAllProjects();
-  const paths = projects.map(({ id }) => `/project/${id}`);
+  const paths = projects.map(({ id }) => `/projects/${id}`);
   return { paths, fallback: false };
 };
 
