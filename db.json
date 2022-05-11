@@ -1,0 +1,31 @@
+{
+  "title": "Shobhit Gupta",
+  "description": "",
+  "website": "https://aseemgupta.com",
+  "profileImg": "https://aseemgupta.com/images/profile.jpeg",
+  "links": [
+    {
+      "title": "Resume",
+      "url": "#",
+      "icon": "ri-profile-line"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/",
+      "icon": "ri-linkedin-fill"
+    },
+    {
+      "title": "Mail",
+      "url": "mailto:mahima@bhutani.design",
+      "icon": "ri-mail-line"
+    }
+  ],
+  "about": {
+    "heading": "Hi, I'm Aseem",
+    "subHeading": ["Marketeer", "Learner"],
+    "content": [
+      "I am passionate about using UX/UI and IxD to design user-friendly products, environments and systems. I use my skills in user research, front end development, user testing, prototyping and heuristic evaluation to implement our client’s vision. I love solving problems and tackling new challenges. I look to create synergies and cohesion in teams to bring out the best performance and exceed expectations.",
+      "I am skilled with Figma, Sketch, Adobe XD and InVision."
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+import Header from "ui/Header";
+import Markdown from "ui/Markdown";
+import Footer from "ui/Footer";
+import Siblings from "ui/Siblings";
+import HeroImage from "ui/HeroImage";
+import { getAllProjects, getProject } from "helpers/projects";
+import Meta from "components/MetaHeader";
+
+import type {
+  GetStaticPaths,
+  GetStaticProps,
+  InferGetStaticPropsType,
+} from "next";
+import type { Project } from "helpers/typeDefinitions";
+
+export default function Projects({
+  data,
+  content,
+  next,
+  prev,
+}: InferGetStaticPropsType<typeof getStaticProps>): JSX.Element {
+  const { id, name, image, tags, description } = data;
+  return (
+    <>
+      <Meta
+        title={name}
+        url={"/blog/" + id}
+        image={name}
+        description={description}
+      />
+      <Header />
+      <HeroImage tags={tags} image={image} />
+      <Markdown markdown={content} />
+      <Siblings
+        next={next}
+        prev={prev}
+        allItemsLink="/#blog"
+        allItemsText="All blogs"
+      />
+      <Footer />
+    </>
+  );
+}
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const projects = getAllProjects();
+  const paths = projects.map(({ id }) => `/project/${id}`);
+  return { paths, fallback: false };
+};
+
+export const getStaticProps: GetStaticProps<{
+  data: Project;
+  content: string;
+  next: Project;
+  prev: Project;
+}> = async ({ params }) => {
+  const id = params?.id?.toString();
+  if (!id) throw new Error(`Missing ID.`);
+  const { content, data, prev, next } = getProject(id);
+
+  return {
+    props: {
+      content,
+      data,
+      next,
+      prev,
+    },
+  };
+};
