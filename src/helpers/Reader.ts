@@ -34,10 +34,16 @@ export default class Reader<T extends Data> {
 }
 
 function getAllMarkdownFilePaths(dirPath: string): string[] {
-  return fs
-    .readdirSync(dirPath, { withFileTypes: true })
-    .filter((file) => file.isFile() && file.name.endsWith("md"))
-    .map((file) => `${dirPath}/${file.name}`);
+  try {
+    const files = fs
+      .readdirSync(dirPath, { withFileTypes: true })
+      .filter((file) => file.isFile() && file.name.endsWith("md"))
+      .map((file) => `${dirPath}/${file.name}`);
+
+    return files;
+  } catch {
+    return [];
+  }
 }
 
 function readMarkdownFile<T extends Data>(filePath: string) {
