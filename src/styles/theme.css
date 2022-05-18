@@ -15,11 +15,13 @@
   --grey-800: #2b313a;
   --grey-900: #060709;
   --black: #000000;
+  --color-accent-light: #cd4e00;
+  --color-accent-dark: #e3702a;
 }
 
 /* Light theme */
 :root {
-  --color-accent: #cd4e00;
+  --color-accent: var(--color-accent-light);
   --color-text-primary: var(--grey-800);
   --color-text-secondary: var(--grey-700);
   --color-text-disabled: var(--grey-500);
@@ -34,7 +36,7 @@
 /* Dark theme */
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-accent: #e3702a;
+    --color-accent: var(--color-accent-dark);
     --color-text-primary: var(--grey-050);
     --color-text-secondary: var(--grey-100);
     --color-text-disabled: var(--grey-200);
