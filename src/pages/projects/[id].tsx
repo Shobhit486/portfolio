@@ -35,7 +35,7 @@ export default function Projects({
         next={next}
         prev={prev}
         allItemsLink="/#projects"
-        allItemsText="All blogs"
+        allItemsText="All projects"
       />
       <Footer />
     </>
