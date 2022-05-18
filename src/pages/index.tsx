@@ -1,7 +1,7 @@
 import Head from "next/head";
 
 import type { Blog, Project } from "helpers/typeDefinitions";
-import { getAllBlogs, cleanupBlog } from "helpers/blog";
+// import { getAllBlogs, cleanupBlog } from "helpers/blog";
 import { getAllProjects } from "helpers/projects";
 import Header from "ui/Header";
 import About from "ui/About";
@@ -23,18 +23,18 @@ export default function Home({ blogs, projects }: StaticProps) {
         items={projects}
         baseUrl="/projects/"
       />
-      <GridSection title="Blog" id="blog" items={blogs} baseUrl="/blog/" />
+      {/* <GridSection title="Blog" id="blog" items={blogs} baseUrl="/blog/" /> */}
       <Footer />
     </>
   );
 }
 
 export const getStaticProps: GetStaticProps<StaticProps> = async () => {
-  const blogs = getAllBlogs().map(cleanupBlog);
+  // const blogs = getAllBlogs().map(cleanupBlog);
   const projects = getAllProjects();
   return {
     props: {
-      blogs,
+      blogs:[],
       projects,
     },
   };
