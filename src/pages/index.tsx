@@ -11,7 +11,7 @@ import db from "../../db.json";
 
 import type { GetStaticProps } from "next";
 
-export default function Home({ blogs, projects }: StaticProps) {
+export default function Home({ projects }: StaticProps) {
   return (
     <>
       <Meta />
