@@ -7,7 +7,7 @@ import db from "../../db.json";
 export default function Footer(): JSX.Element {
   return (
     <Container>
-      © {db.title} • <a href="mailto:mahima@bhutani.design">Contact</a>
+      © {db.title}
       <ScrollToTop
         onClick={() => {
           window.scrollTo({ top: 0 });
