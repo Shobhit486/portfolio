@@ -43,7 +43,7 @@ No dietary knowledge in illness.
 
 ## Solution
 
-![Preview not available](initialscreens.png)
+![Preview not available](/images/initialscreens.png)
 
 
 This idea was developed out of real life situation when I recently visited to a doctor's clinic for a viral checkup. The name of the medicines he wrote in the prescription was totally un-readable, and also after I came home I usually forget about the medication schedule the doctor mentioned and wrote on the prescription.
