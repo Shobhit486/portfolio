@@ -18,9 +18,15 @@ to the diagnosis.
 
 ## Problem
 
-### WHO?
+### My Role
 
 The whole process of this project i.e Discovery, Ideation and Design is done and completed by me. I worked on this project solo.
+
+### UX Approach
+
+![Preview not available](/images/user-centered.png)
+
+
 
 ### WHAT?
 
