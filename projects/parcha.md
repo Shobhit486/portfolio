@@ -9,7 +9,7 @@ tags:
   - Research
 ---
 
-# parcha
+# **parcha**
 
 Parcha is a multilingual post medical consultation service whose 
 purpose is to ease the process of prescription reading 
@@ -62,6 +62,8 @@ This idea was developed out of real life situation when I recently visited to a 
 
 ### Initial Wireframes
 
-Below present are the low fidelity wireframes done on the tool 'Balsamiq'.
+Below present are the **lo-fidelity wireframes** done on the tool 'Balsamiq'.
 
 ![Preview not available](/images/lowireframe.png)
+
+The **lo-fidelity prototypes** were displayed in front of people for testing which led to a psotive feedback. The user group selected for usability testing was 'Patients' and following as per the persona people were approached. 
