@@ -21,7 +21,7 @@ to the diagnosis.
 
 ## MY ROLE
 
-The whole process of this project i.e Discovery, Ideation and Design is done and completed by me. I worked on this project solo.
+The whole process of this project i.e Discovery, Ideation and Design is done and completed by me. It was a solo project.
 
 
 ## UX APPROACH
@@ -50,10 +50,8 @@ The timeline on which I worked was from 18th April 2022 - 4th June 2022 that is 
 
 ### WHY?
 
-There were multiple problems extracted from the research that were-
-Understandability and readability issues of a prescription.
-Language barriers.
-No dietary knowledge in illness.
+
+Patients not able to read their medical prescriptions and not able to remember their medicine schedule given by the doctor and no dietary knowledge in illness.
 
 ## Solution
 
@@ -61,3 +59,9 @@ No dietary knowledge in illness.
 
 
 This idea was developed out of real life situation when I recently visited to a doctor's clinic for a viral checkup. The name of the medicines he wrote in the prescription was totally un-readable, and also after I came home I usually forget about the medication schedule the doctor mentioned and wrote on the prescription.
+
+### Initial Wireframes
+
+Below present are the low fidelity wireframes done on the tool 'Balsamiq'.
+
+![Preview not available](/images/lowireframe.png)
