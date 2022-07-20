@@ -16,21 +16,29 @@ purpose is to ease the process of prescription reading
 for the patient, and provide calculated diet according 
 to the diagnosis.
 
-## Problem
 
-### My Role
+
+
+## MY ROLE
 
 The whole process of this project i.e Discovery, Ideation and Design is done and completed by me. I worked on this project solo.
 
-### UX Approach
+
+## UX APPROACH
 
 ![Preview not available](/images/user-centered.png)
 
 
 
-### WHAT?
+
+
+## RESEARCH
 
 Qualitative research was done for this project. Multiple one on one semi-structured interviews were conducted with ‘Healthcare providers’ and ‘Patients’ to get deep insights. Also observational study was an essential tool in this research as I had to observe and study user behaviours and what problems they faced.
+
+### USER PERSONA
+
+![Preview not available](/images/persona.png)
 
 ### WHERE?
 
