@@ -36,7 +36,7 @@ The whole process of this project i.e Discovery, Ideation and Design is done and
 
 Qualitative research was done for this project. Multiple one on one semi-structured interviews were conducted with ‘Healthcare providers’ and ‘Patients’ to get deep insights. Also observational study was an essential tool in this research as I had to observe and study user behaviours and what problems they faced.
 
-"Image to be inserted - miro board image"
+![Preview not available](/images/miro.png)
 
 ### USER PERSONA
 
@@ -78,7 +78,7 @@ The **lo-fidelity prototypes** were displayed in front of people for testing whi
 
 #### **The Prescriptions**
 
-The prescriptions provided by parcha after the scan are displayed in an easily understandable format and in the language the user selected initially.
+The prescriptions provided by parcha after the scan are displayed in an easily understandable format and in the language the user selected initially. Here are few examples shown:
 
 ![Preview not available](/images/prescriptions.png)
 
