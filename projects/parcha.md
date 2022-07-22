@@ -32,27 +32,27 @@ The whole process of this project i.e Discovery, Ideation and Design is done and
 
 
 
-## RESEARCH
+## USER RESEARCH
 
 Qualitative research was done for this project. Multiple one on one semi-structured interviews were conducted with ‘Healthcare providers’ and ‘Patients’ to get deep insights. Also observational study was an essential tool in this research as I had to observe and study user behaviours and what problems they faced.
 
 ![Preview not available](/images/miro.jpg)
 
-### USER PERSONA
+### PERSONAS
 
 ![Preview not available](/images/persona.png)
 
-### WHERE?
+#### WHERE?
 
 Geographically the research was done and completed in two cities that is ‘Delhi’ and ‘Jaipur’. I went to multiple hospitals, clinics and healthcare centres to gain access to doctors and patients.
 
 "Insert an image of the geaographical order"
 
-### WHEN?
+#### WHEN?
 
 The timeline on which I worked was from 18th April 2022 - 4th June 2022 that is around 6 weeks.
 
-### WHY?
+#### WHY?
 
 
 Patients not able to read their medical prescriptions and not able to remember their medicine schedule given by the doctor and no dietary knowledge in illness.
