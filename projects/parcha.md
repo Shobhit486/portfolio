@@ -76,5 +76,11 @@ The **lo-fidelity prototypes** were displayed in front of people for testing whi
 
 ![Preview not available](/images/initialscreens.png)
 
+#### **The Prescriptions**
+
+The prescriptions provided by parcha after the scan are displayed in an easily understandable format and in the language the user selected initially.
+
+![Preview not available](/images/prescriptions.png)
+
 
 
