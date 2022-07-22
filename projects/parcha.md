@@ -36,6 +36,8 @@ The whole process of this project i.e Discovery, Ideation and Design is done and
 
 Qualitative research was done for this project. Multiple one on one semi-structured interviews were conducted with ‘Healthcare providers’ and ‘Patients’ to get deep insights. Also observational study was an essential tool in this research as I had to observe and study user behaviours and what problems they faced.
 
+"Image to be inserted - miro board image"
+
 ### USER PERSONA
 
 ![Preview not available](/images/persona.png)
@@ -43,6 +45,8 @@ Qualitative research was done for this project. Multiple one on one semi-structu
 ### WHERE?
 
 Geographically the research was done and completed in two cities that is ‘Delhi’ and ‘Jaipur’. I went to multiple hospitals, clinics and healthcare centres to gain access to doctors and patients.
+
+"Insert an image of the geaographical order"
 
 ### WHEN?
 
@@ -58,12 +62,19 @@ Patients not able to read their medical prescriptions and not able to remember t
 ![Preview not available](/images/initialscreens.png)
 
 
-This idea was developed out of real life situation when I recently visited to a doctor's clinic for a viral checkup. The name of the medicines he wrote in the prescription was totally un-readable, and also after I came home I usually forget about the medication schedule the doctor mentioned and wrote on the prescription.
+Parcha was developed out of real life situation when I recently visited to a doctor's clinic for a viral checkup. The name of the medicines he wrote in the prescription was totally un-readable, and also after I came home I usually forget about the medication schedule the doctor mentioned and wrote on the prescription.
 
 ### Initial Wireframes
 
 Below present are the **lo-fidelity wireframes** done on the tool 'Balsamiq'.
+The **lo-fidelity prototypes** were displayed in front of people for testing which led to a positive feedback. The user group selected for usability testing was 'Patients' and following as per the persona people were approached.
 
 ![Preview not available](/images/lowireframe.png)
 
-The **lo-fidelity prototypes** were displayed in front of people for testing which led to a psotive feedback. The user group selected for usability testing was 'Patients' and following as per the persona people were approached. 
+ 
+### High-fidelity Wireframes
+
+
+
+
+
