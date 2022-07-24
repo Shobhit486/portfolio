@@ -2,10 +2,11 @@
 id: 1cart
 name: 1Cart
 image: /images/1Cart_logo.png
-description: Description here
+description: The convenience of online shopping cart while experiencing the world of brick-and-mortar stores.
 tags:
-  - blog
-  - new
+  - UX
+  - UI
+  - Research
 ---
 
 # 1Cart
