@@ -2,17 +2,19 @@
 id: SOS
 name: SOS app
 image: /images/SOS.png
-description: Description here
+description: SOS emergency app re-design in terms of UX and UI.
 tags:
   - UX
   - UI
-  - Research
+  
 ---
 
-# 1Cart
+# **SOS Emergency App**
 
-The content of project goes here.
+## **Problems**
 
-[Open pdf](/pdf/1cart.pdf)
+Emergency SOS app which has some problems as shown in the wireframes - 
+ - Home screen re-design, remove accidental clicks.
+ - Following pages re-think and re-design
 
-![1Cart logo](/images/1Cart_logo.png)
+![Preview not available](/images/SOSwireframe.png)
