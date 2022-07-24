@@ -13,8 +13,17 @@ tags:
 
 ## **Problems**
 
-Emergency SOS app which has some problems as shown in the wireframes - 
+Emergency SOS app which has some problems - 
  - Home screen re-design, remove accidental clicks.
  - Following pages re-think and re-design
 
+
+
 ![Preview not available](/images/SOSwireframe.png)
+
+
+
+## **Solution**
+
+
+![Preview not available](/images/SOSscreens.png)
