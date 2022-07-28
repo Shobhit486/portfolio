@@ -1,7 +1,7 @@
 ---
 id: swiggy
 name: Swiggy Re-design
-image: /images/1Cart_logo.png
+image: /images/Swiggy-cover.png
 description: Description here
 tags:
   - UX
