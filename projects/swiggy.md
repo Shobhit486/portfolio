@@ -11,11 +11,20 @@ tags:
 
 # 1Cart
 
-The content of project goes here.
 
-[Open pdf](/pdf/1cart.pdf)
 
-![1Cart logo](/images/1Cart_logo.png)
+![Preview not available](/images/swiggy-1.png)
+
+![Preview not available](/images/swiggy-2.png)
+
+![Preview not available](/images/swiggy-3.png)
+
+![Preview not available](/images/swiggy-4.png)
+
+![Preview not available](/images/swiggy-5.png)
+
+![Preview not available](/images/swiggy-6.png)
+
 
 
 "I am an UX/UI designer trying to create better user-friendly experiences in . using my skills in user research, user testing and designing.

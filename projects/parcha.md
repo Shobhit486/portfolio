@@ -84,3 +84,4 @@ The prescriptions provided by parcha after the scan are displayed in an easily u
 
 
 
+[Open pdf](/pdf/Parcha.pdf)
