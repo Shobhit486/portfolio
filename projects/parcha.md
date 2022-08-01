@@ -9,7 +9,7 @@ tags:
   - Research
 ---
 
-# **parcha**
+# parcha
 
 Parcha is a multilingual post medical consultation service whose 
 purpose is to ease the process of prescription reading 

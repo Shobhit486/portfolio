@@ -9,7 +9,6 @@ tags:
   - Research
 ---
 
-# 1Cart
 
 
 
