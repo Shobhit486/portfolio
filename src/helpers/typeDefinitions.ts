@@ -8,6 +8,7 @@ export interface BaseItem {
 export interface Project extends BaseItem {
   order?: number;
   logo?: string;
+  hero?: string;
   accent?: string;
 }
 

@@ -1,6 +1,7 @@
 import Head from "next/head";
 import "styles/globals.css";
 import "styles/theme.css";
+import "styles/components.css";
 import "remixicon/fonts/remixicon.css";
 import type { AppProps } from "next/app";
 

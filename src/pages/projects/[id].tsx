@@ -19,7 +19,7 @@ export default function Projects({
   next,
   prev,
 }: InferGetStaticPropsType<typeof getStaticProps>): JSX.Element {
-  const { id, name, image, tags, description } = data;
+  const { id, name, image, hero, tags, description } = data;
   return (
     <>
       <Meta
@@ -29,7 +29,7 @@ export default function Projects({
         description={description}
       />
       <Header />
-      <HeroImage tags={tags} image={image} />
+      <HeroImage tags={tags} image={hero} fallback={image} />
       <Markdown markdown={content} />
       <Siblings
         next={next}

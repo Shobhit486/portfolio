@@ -20,7 +20,8 @@
 - Update meta-data in the file like:
   - `id`: Should be same as the file name (without .md).
   - `name`: Name of the project, visible on homepage.
-  - `image`: Link of the hero image, visible on homepage and in hero section of project detail page.
+  - `image`: Link of the image, visible on homepage and in hero section (mobile) of project detail page.
+  - `hero`: Link of the hero image, visible in hero section (desktop) of project detail page (optional).
   - `description`: Description of the project, visible on homepage.
   - `tags`: List of tags which can be used to filter the projects
 - Add the content/details of the project below the meta-data (---).

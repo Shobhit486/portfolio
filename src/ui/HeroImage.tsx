@@ -8,20 +8,27 @@ import { Color } from "../styles";
 import type { CSSProperties } from "react";
 
 export default function HeroImage<
-  T extends { tags?: string[]; image?: string }
+  T extends { tags?: string[]; image?: string; fallback?: string }
 >({
   style,
   ...rest
 }: T & {
   style?: CSSProperties;
 }): JSX.Element {
-  const { image, tags = [] } = rest;
+  const { image, fallback, tags = [] } = rest;
+
+  const sectionStyle = {
+    "--hero-image": `url(${image || fallback})`,
+    "--fallback-image": `url(${fallback})`,
+  } as CSSProperties;
+
   return (
     <HeroSection
+      id="hero-section"
       style={{
         ...style,
-        backgroundImage: image ? `url(${image})` : "black",
         height: "70vh",
+        ...sectionStyle,
       }}
     >
       {tags.length > 1 ? (

@@ -1,0 +1,9 @@
+#hero-section {
+  background-image: var(--hero-image, "#000000");
+}
+
+@media screen and (orientation: portrait) and (max-width: 768px) {
+  #hero-section {
+    background-image: var(--fallback-image, "#000000");
+  }
+}
