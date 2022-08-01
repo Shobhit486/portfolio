@@ -9,9 +9,7 @@ tags:
   - Research
 ---
 
-# 1Cart
-
-
+# Swiggy Re-design
 
 ![Preview not available](/images/swiggy-1.png)
 
@@ -25,6 +23,4 @@ tags:
 
 ![Preview not available](/images/swiggy-6.png)
 
-
-
-"I am an UX/UI designer trying to create better user-friendly experiences in . using my skills in user research, user testing and designing.
+I am an UX/UI designer trying to create better user-friendly experiences in . using my skills in user research, user testing and designing.

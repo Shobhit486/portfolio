@@ -119,7 +119,7 @@ const CardImage = styled.div`
   border-radius: 0.5rem;
   overflow: hidden;
   width: 100%;
-  height: 300px;
+  aspect-ratio: 1 / 1;
   position: relative;
   cursor: pointer;
   background-position: center;

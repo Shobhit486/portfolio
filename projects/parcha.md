@@ -3,34 +3,26 @@ id: parcha
 name: parcha
 image: /images/parcha_cover.png
 description: Parcha is a multilingual post medical consultation service.
-tags: 
+tags:
   - UI
   - UX
   - Research
 ---
 
-# **parcha**
+# parcha
 
-Parcha is a multilingual post medical consultation service whose 
-purpose is to ease the process of prescription reading 
-for the patient, and provide calculated diet according 
+Parcha is a multilingual post medical consultation service whose
+purpose is to ease the process of prescription reading
+for the patient, and provide calculated diet according
 to the diagnosis.
-
-
-
 
 ## MY ROLE
 
 The whole process of this project i.e Discovery, Ideation and Design is done and completed by me. It was a solo project.
 
-
 ## UX APPROACH
 
 ![Preview not available](/images/user-centered.png)
-
-
-
-
 
 ## USER RESEARCH
 
@@ -54,13 +46,11 @@ The timeline on which I worked was from 18th April 2022 - 4th June 2022 that is 
 
 #### WHY?
 
-
 Patients not able to read their medical prescriptions and not able to remember their medicine schedule given by the doctor and no dietary knowledge in illness.
 
 ## Solution
 
 ![Preview not available](/images/Parcha.png)
-
 
 Parcha was developed out of real life situation when I recently visited to a doctor's clinic for a viral checkup. The name of the medicines he wrote in the prescription was totally un-readable, and also after I came home I usually forget about the medication schedule the doctor mentioned and wrote on the prescription.
 
@@ -71,17 +61,14 @@ The **lo-fidelity prototypes** were displayed in front of people for testing whi
 
 ![Preview not available](/images/lowireframe.png)
 
- 
 ### High-fidelity Wireframes
 
 ![Preview not available](/images/initialscreens.png)
 
-#### **The Prescriptions**
+#### The Prescriptions
 
 The prescriptions provided by parcha after the scan are displayed in an easily understandable format and in the language the user selected initially. Here are few examples shown:
 
 ![Preview not available](/images/prescriptions.png)
-
-
 
 [Open pdf](/pdf/Parcha.pdf)

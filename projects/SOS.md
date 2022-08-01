@@ -5,25 +5,19 @@ image: /images/SOS.png
 description: SOS emergency app re-design in terms of UX and UI.
 tags:
   - UI
-  
 ---
 
-# **SOS Emergency App**
+# SOS Emergency App
 
-## **Problems**
+## Problems
 
+Emergency SOS app which has some problems -
 
-Emergency SOS app which has some problems - 
- - Home screen re-design, remove accidental clicks.
- - Following pages re-think and re-design
-
-
+- Home screen re-design, remove accidental clicks.
+- Following pages re-think and re-design
 
 ![Preview not available](/images/SOSwireframe.png)
 
-
-
-## **Solution**
-
+## Solution
 
 ![Preview not available](/images/SOSscreens.png)
