@@ -1,7 +1,7 @@
 ---
 id: SOS
 name: SOS app
-image: /images/SOS.png
+image: /images/SOS2.png
 hero: /images/SOS.png
 description: SOS emergency app re-design in terms of UX and UI.
 tags:
