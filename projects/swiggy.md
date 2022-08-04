@@ -1,7 +1,7 @@
 ---
 id: swiggy
 name: Swiggy Re-design
-image: /images/Swiggy-cover.png
+image: /images/swiggycover.png
 hero: /images/Swiggy-cover.png
 description: Description here
 tags:
