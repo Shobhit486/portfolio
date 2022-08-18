@@ -1,8 +1,8 @@
 ---
 id: parcha
 name: parcha
-image: /images/Parcha.png
-hero: /images/parcha_cover.png
+image: /images/parcha/Parcha.png
+hero: /images/parcha/parcha_cover.png
 description: Parcha is a multilingual post medical consultation service.
 tags:
   - UI
@@ -23,17 +23,17 @@ The whole process of this project i.e Discovery, Ideation and Design is done and
 
 ## UX APPROACH
 
-![Preview not available](/images/user-centered.png)
+![Preview not available](/images/parcha/user-centered.png)
 
 ## USER RESEARCH
 
 Qualitative research was done for this project. Multiple one on one semi-structured interviews were conducted with ‘Healthcare providers’ and ‘Patients’ to get deep insights. Also observational study was an essential tool in this research as I had to observe and study user behaviours and what problems they faced.
 
-![Preview not available](/images/miro.jpg)
+![Preview not available](/parcha/images/miro.jpg)
 
 ### PERSONAS
 
-![Preview not available](/images/persona.png)
+![Preview not available](/images/parcha/persona.png)
 
 #### WHERE?
 
@@ -51,7 +51,7 @@ Patients not able to read their medical prescriptions and not able to remember t
 
 ## Solution
 
-![Preview not available](/images/Parcha.png)
+![Preview not available](/images/parcha/Parcha.png)
 
 Parcha was developed out of real life situation when I recently visited to a doctor's clinic for a viral checkup. The name of the medicines he wrote in the prescription was totally un-readable, and also after I came home I usually forget about the medication schedule the doctor mentioned and wrote on the prescription.
 
@@ -60,16 +60,16 @@ Parcha was developed out of real life situation when I recently visited to a doc
 Below present are the **lo-fidelity wireframes** done on the tool 'Balsamiq'.
 The **lo-fidelity prototypes** were displayed in front of people for testing which led to a positive feedback. The user group selected for usability testing was 'Patients' and following as per the persona people were approached.
 
-![Preview not available](/images/lowireframe.png)
+![Preview not available](/images/parcha/lowireframe.png)
 
 ### High-fidelity Wireframes
 
-![Preview not available](/images/initialscreens.png)
+![Preview not available](/images/parcha/initialscreens.png)
 
 #### The Prescriptions
 
 The prescriptions provided by parcha after the scan are displayed in an easily understandable format and in the language the user selected initially. Here are few examples shown:
 
-![Preview not available](/images/prescriptions.png)
+![Preview not available](/images/parcha/prescriptions.png)
 
 [Open pdf](/pdf/Parcha.pdf)
