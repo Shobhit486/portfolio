@@ -21,4 +21,5 @@ Emergency SOS app which has some problems -
 
 ## Solution
 
-![Preview not available](/images/SOS/SOSscreens.png)
+![Preview not available](/images/SOS/SOSscreen1-main1.png)
+![Preview not available](/images/SOS/SOSscreen1-main2.png)
