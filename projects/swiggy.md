@@ -24,4 +24,4 @@ tags:
 
 ![Preview not available](/images/swiggy-6.png)
 
-I am an UX/UI designer trying to create better user-friendly experiences in . using my skills in user research, user testing and designing.
+
