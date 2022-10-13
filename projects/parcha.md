@@ -57,17 +57,17 @@ Parcha was developed out of real life situation when I recently visited to a doc
 
 ### Working of the App
 
-Below present are the **lo-fidelity wireframes** done on the tool 'Balsamiq'.
-The **lo-fidelity prototypes** were displayed in front of people for testing which led to a positive feedback. The user group selected for usability testing was 'Patients' and following as per the persona people were approached.
 
 ![Preview not available](/images/parcha/scanhand.png)
 
 
-![Preview not available](/images/parcha/scanhand-2.png)
+
 
 #### The Prescriptions
 
 The prescriptions provided by parcha after the scan are displayed in an easily understandable format and in the language the user selected initially. Here are few examples shown:
+
+![Preview not available](/images/parcha/scanhand-2.png)
 
 ![Preview not available](/images/parcha/prescriptions.png)
 
