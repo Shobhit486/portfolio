@@ -55,16 +55,15 @@ Patients not able to read their medical prescriptions and not able to remember t
 
 Parcha was developed out of real life situation when I recently visited to a doctor's clinic for a viral checkup. The name of the medicines he wrote in the prescription was totally un-readable, and also after I came home I usually forget about the medication schedule the doctor mentioned and wrote on the prescription.
 
-### Initial Wireframes
+### Working of the App
 
 Below present are the **lo-fidelity wireframes** done on the tool 'Balsamiq'.
 The **lo-fidelity prototypes** were displayed in front of people for testing which led to a positive feedback. The user group selected for usability testing was 'Patients' and following as per the persona people were approached.
 
-![Preview not available](/images/parcha/lowireframe.png)
+![Preview not available](/images/parcha/scan hand.png)
 
-### High-fidelity Wireframes
 
-![Preview not available](/images/parcha/initialscreens.png)
+![Preview not available](/images/parcha/scan hand-2.png)
 
 #### The Prescriptions
 
