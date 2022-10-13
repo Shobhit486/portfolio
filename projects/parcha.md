@@ -29,7 +29,7 @@ The whole process of this project i.e Discovery, Ideation and Design is done and
 
 Qualitative research was done for this project. Multiple one on one semi-structured interviews were conducted with ‘Healthcare providers’ and ‘Patients’ to get deep insights. Also observational study was an essential tool in this research as I had to observe and study user behaviours and what problems they faced.
 
-![Preview not available](/parcha/images/miro.jpg)
+![Preview not available](/images/parcha/miro.jpg)
 
 ### PERSONAS
 
