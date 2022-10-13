@@ -60,10 +60,10 @@ Parcha was developed out of real life situation when I recently visited to a doc
 Below present are the **lo-fidelity wireframes** done on the tool 'Balsamiq'.
 The **lo-fidelity prototypes** were displayed in front of people for testing which led to a positive feedback. The user group selected for usability testing was 'Patients' and following as per the persona people were approached.
 
-![Preview not available](/images/parcha/scan hand.png)
+![Preview not available](/images/parcha/scanhand.png)
 
 
-![Preview not available](/images/parcha/scan hand-2.png)
+![Preview not available](/images/parcha/scanhand-2.png)
 
 #### The Prescriptions
 
