@@ -39,7 +39,7 @@ Qualitative research was done for this project. Multiple one on one semi-structu
 
 Geographically the research was done and completed in two cities that is ‘Delhi’ and ‘Jaipur’. I went to multiple hospitals, clinics and healthcare centres to gain access to doctors and patients.
 
-"Insert an image of the geaographical order"
+<!-- "Insert an image of the geaographical order" -->
 
 #### WHEN?
 
@@ -51,7 +51,7 @@ Patients not able to read their medical prescriptions and not able to remember t
 
 ## Solution
 
-![Preview not available](/images/parcha/Parcha.png)
+![Preview not available](/images/parcha/Parcha.png "scan prescription")
 
 Parcha was developed out of real life situation when I recently visited to a doctor's clinic for a viral checkup. The name of the medicines he wrote in the prescription was totally un-readable, and also after I came home I usually forget about the medication schedule the doctor mentioned and wrote on the prescription.
 
