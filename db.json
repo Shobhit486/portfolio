@@ -6,7 +6,7 @@
   "links": [
     {
       "title": "Resume",
-      "url": "/pdf/Resume.pdf",
+      "url": "/pdf/CV_Shobhit_Gupta.pdf",
       "icon": "ri-profile-line"
     },
     {
@@ -25,8 +25,8 @@
     "subHeading": ["Designer", "Learner"],
     "content": [
       
-      "I am passionate about using UX/UI and IxD to design user-friendly products, environments and systems. I use my skills in user research, front end development, user testing, prototyping and heuristic evaluation to implement our client’s vision. I love solving problems and tackling new challenges. I look to create synergies and cohesion in teams to bring out the best performance and exceed expectations.",
-      "I am skilled with Figma, Adobe XD and Photoshop."
+      "I am passionate about using UX/UI and IxD to design user-friendly products, environments and systems. I use my skills in user research, user testing and prototyping to implement designs. I love solving problems and tackling new challenges. I look forward towards understanding the user’s requirements and perspective in order to create great user experiences.",
+      "I am skilled with Figma, Photoshop and InDesign."
     ]
   }
 }
