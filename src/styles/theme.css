@@ -20,7 +20,7 @@
 }
 
 /* Light theme */
-:root {
+/* :root {
   --color-accent: var(--color-accent-light);
   --color-text-primary: var(--grey-800);
   --color-text-secondary: var(--grey-700);
@@ -31,10 +31,10 @@
   --color-background-disabled: var(--grey-200);
   --color-background-inverse: var(--grey-700);
   --color-border: var(--grey-500);
-}
+} */
 
 /* Dark theme */
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) { */
   :root {
     --color-accent: var(--color-accent-dark);
     --color-text-primary: var(--grey-050);
@@ -47,7 +47,7 @@
     --color-background-inverse: var(--grey-100);
     --color-border: var(--grey-500);
   }
-}
+/* } */
 
 /* TYPOGRAPHY */
 
