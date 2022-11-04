@@ -3,9 +3,9 @@ id: amazon_heuristics
 name: Amazon Heuristic Evaluation
 image: /images/A_heuristic/cover.png
 hero: /images/A_heuristic/hero.png
-description: SOS emergency app re-design in terms of UX and UI.
+description: Finding usability issues in the Amazon App
 tags:
-  - UI
+  - Usability Testing
 ---
 
 # SOS Emergency App
