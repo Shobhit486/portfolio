@@ -18,3 +18,4 @@ tags:
 ![Preview not available](/images/A_heuristic/5.png)
 ![Preview not available](/images/A_heuristic/6.png)
 ![Preview not available](/images/A_heuristic/7.png)
+![Preview not available](/images/A_heuristic/8.png)
