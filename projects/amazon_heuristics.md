@@ -1,6 +1,6 @@
 ---
-id: SOS
-name: SOS app
+id: Amazon Heuristic Evaluation
+name: Amazon Heuristic Evaluation
 image: /images/SOS/SOS2.png
 hero: /images/SOS/SOS.png
 description: SOS emergency app re-design in terms of UX and UI.
