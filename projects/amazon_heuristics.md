@@ -13,8 +13,8 @@ tags:
 
 
 ![Preview not available](/images/A_heuristic/2.png)
-
-## Solution
-
-![Preview not available](/images/SOS/SOSscreen1_2.png)
-![Preview not available](/images/SOS/SOSscreen2_2.png)
+![Preview not available](/images/A_heuristic/3.png)
+![Preview not available](/images/A_heuristic/4.png)
+![Preview not available](/images/A_heuristic/5.png)
+![Preview not available](/images/A_heuristic/6.png)
+![Preview not available](/images/A_heuristic/7.png)
