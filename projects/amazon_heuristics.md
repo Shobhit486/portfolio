@@ -10,14 +10,9 @@ tags:
 
 # SOS Emergency App
 
-## Problems
 
-Emergency SOS app which has some problems -
 
-- Home screen re-design, remove accidental clicks.
-- Following pages re-think and re-design
-
-![Preview not available](/images/SOS/SOSwireframe.png)
+![Preview not available](/images/A_heuristic/2.png)
 
 ## Solution
 
