@@ -1,5 +1,5 @@
 ---
-id: Amazon Heuristic Evaluation
+id: amazon_heuristics
 name: Amazon Heuristic Evaluation
 image: /images/A_heuristic/cover.png
 hero: /images/A_heuristic/hero.png
