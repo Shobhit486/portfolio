@@ -1,8 +1,8 @@
 ---
 id: amazon_heuristics
 name: Amazon Heuristic Evaluation
-image: /images/A_heuristic/cover.png
-hero: /images/A_heuristic/hero.png
+image: /images/A_heuristic/Cover.png
+hero: /images/A_heuristic/Hero.png
 description: Finding usability issues in the Amazon App
 tags:
   - Usability Testing
