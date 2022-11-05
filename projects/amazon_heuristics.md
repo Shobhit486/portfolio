@@ -8,7 +8,6 @@ tags:
   - Usability Testing
 ---
 
-# Amazon App Heuristic Evaluation
 
 
 
