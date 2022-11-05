@@ -7,7 +7,8 @@ description: Finding usability issues in the Amazon App
 tags:
   - Usability Testing
 ---
-
+### Overview
+Using the 10 Heuristic principles, I conducted a self usability test to find usability issues in the Amazon App.
 
 
 
