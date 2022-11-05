@@ -12,4 +12,4 @@ tags:
 
 
 
-![Preview not available](/images/A_heuristic/2.png)
+![Preview not available](/images/toilet/1.png)
