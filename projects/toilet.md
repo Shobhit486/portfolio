@@ -1,8 +1,8 @@
 ---
 id: toilet
 name: Cognitive Ergonomic Analysis of a Public Toilet
-image: /images/A_heuristic/Cover.png
-hero: /images/A_heuristic/Hero.png
+image: /images/toilet/Cover.png
+hero: /images/toilet/Hero.png
 description: Re-design of a urinal divider to remove multiple focus while the process of urination.
 tags:
   - Cognitive Ergonomics
