@@ -14,4 +14,6 @@ tags:
 
 The convenience of online shopping cart while experiencing the world of brick-and-mortar stores.
 
+![Preview not available](/images/1Cart/1.png)
+
 [Download project details (PDF)](/pdf/1cart.pdf)
