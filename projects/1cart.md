@@ -15,9 +15,13 @@ tags:
 
 ![Preview not available](/images/1Cart/1.png)
 
-### Design Process Followed
+## Design Process Followed
 
 ![Preview not available](/images/1Cart/6DProcess.png)
+
+### 1. Discover
+
+![Preview not available](/images/1Cart/UserResearch.png)
 
 
 [Download project details (PDF)](/pdf/1cart.pdf)
