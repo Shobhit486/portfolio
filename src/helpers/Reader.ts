@@ -4,7 +4,7 @@ import matter from "gray-matter";
 export default class Reader<T extends Data> {
   private dirPath: string;
   constructor(private dir: string) {
-    this.dirPath = process.cwd() + "/" + this.dir;
+    this.dirPath = `${process.cwd()}/${this.dir}`;
   }
 
   public getAllItems = (): T[] => {
@@ -14,7 +14,7 @@ export default class Reader<T extends Data> {
   };
 
   public getItem = (id: string): Item<T> => {
-    const filePath = this.dirPath + "/" + id + ".md";
+    const filePath = `${this.dirPath}/${id}.md`;
     const parsed = readMarkdownFile<T>(filePath);
     const siblings = this.getSiblings(id);
     return { ...parsed, ...siblings };
@@ -53,12 +53,18 @@ function readMarkdownFile<T extends Data>(filePath: string) {
 }
 
 function sortItems(a: Data, b: Data): number {
+  if ("order" in a || "order" in b) {
+    const aOrder = a.order || 0;
+    const bOrder = b.order || 0;
+    if (aOrder !== bOrder) {
+      return bOrder - aOrder;
+    }
+  }
+
   if ("date" in a && "date" in b) {
     return a.date === b.date ? 0 : a.date > b.date ? -1 : 1;
   }
-  if ("order" in a && "order" in b) {
-    return b.order - a.order;
-  }
+
   return 0;
 }
 
