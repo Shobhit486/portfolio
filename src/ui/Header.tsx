@@ -9,7 +9,7 @@ import type { LinkProps } from "next/link";
 
 export default function Header(): JSX.Element {
   return (
-    <HeadBar>
+    <HeadBar id="navbar">
       <Link href="/">
         <LogoTitle>{db.title}</LogoTitle>
       </Link>

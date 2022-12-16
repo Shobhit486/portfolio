@@ -146,3 +146,15 @@ a:visited {
   text-decoration: none;
   cursor: pointer;
 }
+
+@media print {
+  #navbar,
+  #hero-section,
+  #siblings,
+  #nav-footer {
+    display: none;
+  }
+  * {
+    color: black;
+  }
+}

@@ -6,7 +6,7 @@ import db from "../../db.json";
 
 export default function Footer(): JSX.Element {
   return (
-    <Container>
+    <Container id="nav-footer">
       © {db.title}
       <ScrollToTop
         onClick={() => {
