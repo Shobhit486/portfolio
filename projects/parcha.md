@@ -1,7 +1,7 @@
 ---
 id: parcha
 name: parcha
-image: /images/parcha/Parcha.png
+image: /images/parcha/DGDfront.png
 hero: /images/parcha/parcha_cover.png
 description: Parcha is a multilingual post medical consultation service.
 tags:
