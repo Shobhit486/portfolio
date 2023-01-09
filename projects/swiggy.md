@@ -3,7 +3,7 @@ id: swiggy
 name: Swiggy Re-design
 image: /images/swiggycover.png
 hero: /images/Swiggy-cover.png
-description: Description here
+description: A re-design of Swiggy Homepage.
 tags:
   - UX
   - UI
