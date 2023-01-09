@@ -2,7 +2,7 @@
 id: toilet
 name: AAC Feature for Uber
 image: /images/uber/Cover.png
-hero: /images/toilet/Hero.png
+hero: /images/uber/Hero2.png
 description: Re-design of a urinal divider to remove multiple focus while the process of urination.
 tags:
   - Cognitive Ergonomics
