@@ -11,14 +11,17 @@ tags:
 order : 16
 ---
 
+
+
+
 ![Preview not available](/images/uber/top.png)
 
-### Defining Domain and Aim
+## Defining Domain and Aim
 
 ![Preview not available](/images/uber/1.png)
 
 
-### User Research & Insights
+## User Research & Insights
 
 ![Preview not available](/images/uber/2.png)
 
@@ -29,7 +32,7 @@ order : 16
 ![Preview not available](/images/uber/5.png)
 
 
-### Key Insights
+## Key Insights
 
 ![Preview not available](/images/uber/6.png)
 
@@ -38,9 +41,9 @@ order : 16
 ![Preview not available](/images/uber/8.png)
 
 
-### Solution
+## Solution
 
-#### Creating a feature for UBER
+### Creating a feature for UBER
 
 ![Preview not available](/images/uber/13.png)
 
@@ -55,6 +58,6 @@ order : 16
 ![Preview not available](/images/uber/22.png)
 
 
-#### The follwing interface will be displayed on the driver's device when the button 'STOP' is pressed.
+### The follwing interface will be displayed on the driver's device when the button 'STOP' is pressed.
 
 ![Preview not available](/images/uber/23.png)
