@@ -9,7 +9,9 @@ tags:
 order : 16
 ---
 
+For PDF (better layout) :
 
+[Download project details (PDF)](/pdf/toilet.pdf)
 
 
 ![Preview not available](/images/toilet/1.png)
