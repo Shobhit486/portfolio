@@ -11,7 +11,7 @@ tags:
 order : 16
 ---
 
-
+# Enabling Hearing Impaired People to Navigate During a Ride
 
 
 ![Preview not available](/images/uber/top.png)
