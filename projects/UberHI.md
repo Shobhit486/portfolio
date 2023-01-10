@@ -11,10 +11,7 @@ tags:
 order : 16
 ---
 
-
-
-
-![Preview not available](/images/toilet/1.png)
+![Preview not available](/images/uber/1.png)
 
 
 ### Internvention
