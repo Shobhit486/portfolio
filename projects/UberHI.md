@@ -54,4 +54,7 @@ order : 16
 
 ![Preview not available](/images/uber/22.png)
 
+
+#### The follwing interface will be displayed on the driver's device when the button 'STOP' is pressed.
+
 ![Preview not available](/images/uber/23.png)
