@@ -11,6 +11,8 @@ tags:
 order : 16
 ---
 
+![Preview not available](/images/uber/top.png)
+
 ### Defining Domain and Aim
 
 ![Preview not available](/images/uber/1.png)
@@ -25,3 +27,12 @@ order : 16
 ![Preview not available](/images/uber/4.png)
 
 ![Preview not available](/images/uber/5.png)
+
+
+### Key Insights
+
+![Preview not available](/images/uber/6.png)
+
+![Preview not available](/images/uber/7.png)
+
+![Preview not available](/images/uber/8.png)
