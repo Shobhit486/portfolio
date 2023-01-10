@@ -36,3 +36,22 @@ order : 16
 ![Preview not available](/images/uber/7.png)
 
 ![Preview not available](/images/uber/8.png)
+
+
+### Solution
+
+#### Creating a feature for UBER
+
+![Preview not available](/images/uber/13.png)
+
+![Preview not available](/images/uber/14.png)
+
+![Preview not available](/images/uber/19.png)
+
+![Preview not available](/images/uber/20.png)
+
+![Preview not available](/images/uber/21.png)
+
+![Preview not available](/images/uber/22.png)
+
+![Preview not available](/images/uber/23.png)
