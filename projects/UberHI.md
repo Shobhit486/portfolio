@@ -5,7 +5,9 @@ image: /images/uber/Cover.png
 hero: /images/uber/Hero2.png
 description: Creating a feature for hearing-impaired people to make the rickshaw/cab navigation accessible to them.
 tags:
-  - Cognitive Ergonomics
+  - UI
+  - Research
+  - Accessibility & Inclusivity
 order : 16
 ---
 
