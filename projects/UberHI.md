@@ -16,6 +16,12 @@ order : 16
 ![Preview not available](/images/uber/1.png)
 
 
-### User Research
+### User Research & Insights
 
 ![Preview not available](/images/uber/2.png)
+
+![Preview not available](/images/uber/3.png)
+
+![Preview not available](/images/uber/4.png)
+
+![Preview not available](/images/uber/5.png)
