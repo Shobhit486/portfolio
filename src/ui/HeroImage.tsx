@@ -27,7 +27,6 @@ export default function HeroImage<
       id="hero-section"
       style={{
         ...style,
-        height: "70vh",
         ...sectionStyle,
       }}
     >
