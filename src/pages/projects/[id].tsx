@@ -56,6 +56,7 @@ export const getStaticProps: GetStaticProps<{
 }> = async ({ params }) => {
   const id = params?.id?.toString();
   if (!id) throw new Error(`Missing ID.`);
+
   const { content, data, prev, next } = getProject(id);
 
   return {

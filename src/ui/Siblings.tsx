@@ -21,7 +21,7 @@ export default function Siblings<T extends BaseItem>({
 }): JSX.Element {
   const { route } = useRouter();
   const nextUrl = route.replace(ID_PARAM, next.id);
-  const prevUrl = route.replace(ID_PARAM, next.id);
+  const prevUrl = route.replace(ID_PARAM, prev.id);
 
   return (
     <Container id="siblings">
