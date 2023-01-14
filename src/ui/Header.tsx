@@ -4,12 +4,20 @@ import Link from "next/link";
 import db from "../../db.json";
 import { Color } from "styles";
 
-import type { PropsWithChildren } from "react";
+import { PropsWithChildren, useRef } from "react";
 import type { LinkProps } from "next/link";
+import useScrollDirection from "helpers/useScrollDirection";
 
 export default function Header(): JSX.Element {
+  const headerRef = useRef<HTMLElement>(null);
+  const scrollDirection = useScrollDirection(headerRef);
+
   return (
-    <HeadBar id="navbar">
+    <HeadBar
+      id="navbar"
+      ref={headerRef}
+      className={`scroll-${scrollDirection}`}
+    >
       <Link href="/">
         <LogoTitle>{db.title}</LogoTitle>
       </Link>
@@ -58,14 +66,35 @@ const HeadBar = styled.header`
   border-radius: 0.5rem;
   box-shadow: 0 0.25rem 0.5rem 0 #0008;
 
-  animation: drop-top 0.5s;
+  &.scroll-init {
+    top: 0;
+  }
 
-  @keyframes drop-top {
-    from {
-      top: -100px;
+  &.scroll-up {
+    animation: 0.2s ease-in-out anim-show forwards;
+
+    @keyframes anim-show {
+      0% {
+        top: -200px;
+      }
+
+      100% {
+        top: 0;
+      }
     }
-    to {
-      top: 0;
+  }
+
+  &.scroll-down {
+    animation: 0.3s ease-in-out anim-hide forwards;
+
+    @keyframes anim-hide {
+      0% {
+        top: 0;
+      }
+
+      100% {
+        top: -200px;
+      }
     }
   }
 
