@@ -79,6 +79,6 @@ Link - https://www.figma.com/proto/b8vAx6YX73kNExSMdb4lDC/Parcha?page-id=464%3A6
 #### OR
 
 
-![Preview not available](/images/parcha/Prototype 16_9.png)
+![Preview not available](/images/parcha/Prototype.png)
 
 [Open pdf](/pdf/Parcha.pdf)
