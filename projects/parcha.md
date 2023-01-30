@@ -32,31 +32,31 @@ Qualitative research was done for this project. Multiple one on one semi-structu
 
 ![Preview not available](/images/parcha/miro.jpg)
 
-### PERSONAS
+### Personas
 
 ![Preview not available](/images/parcha/persona.png)
 
-#### WHERE?
+#### Where?
 
 Geographically the research was done and completed in two cities that is ‘Delhi’ and ‘Jaipur’. I went to multiple hospitals, clinics and healthcare centres to gain access to doctors and patients.
 
 <!-- "Insert an image of the geaographical order" -->
 
-#### WHEN?
+#### When?
 
 The timeline on which I worked was from 18th April 2022 - 4th June 2022 that is around 6 weeks.
 
-#### WHY?
+#### Why?
 
 Patients not able to read their medical prescriptions and not able to remember their medicine schedule given by the doctor and no dietary knowledge in illness.
 
-## Solution
+## SOLUTION
 
 ![Preview not available](/images/parcha/Parcha.png "scan prescription")
 
 Parcha was developed out of real life situation when I recently visited to a doctor's clinic for a viral checkup. The name of the medicines he wrote in the prescription was totally un-readable, and also after I came home I usually forget about the medication schedule the doctor mentioned and wrote on the prescription.
 
-### Working of the App
+### Working of the app
 
 
 ![Preview not available](/images/parcha/scanhand.png)
@@ -64,12 +64,21 @@ Parcha was developed out of real life situation when I recently visited to a doc
 
 
 
-#### The Prescriptions
+### The Prescriptions
 
 The prescriptions provided by parcha after the scan are displayed in an easily understandable format and in the language the user selected initially. Here are few examples shown:
 
 ![Preview not available](/images/parcha/scanhand-2.png)
 
 ![Preview not available](/images/parcha/prescriptions.png)
+
+## PROTOTYPE
+
+Link - https://www.figma.com/proto/b8vAx6YX73kNExSMdb4lDC/Parcha?page-id=464%3A60&node-id=464%3A678&viewport=656%2C404%2C0.11&scaling=scale-down&starting-point-node-id=464%3A678&show-proto-sidebar=1
+
+#### OR
+
+
+![Preview not available](/images/parcha/scanhand.png)
 
 [Open pdf](/pdf/Parcha.pdf)
