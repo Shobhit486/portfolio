@@ -3,7 +3,7 @@ id: parcha
 name: parcha
 image: /images/parcha/DGDfront.png
 hero: /images/parcha/parcha_cover.png
-description: Parcha is a multilingual post medical consultation service.
+description: parcha is a health companion application whose sole purpose is to provide post diagnosis support to the patient. It can scan, understand and translate a medical prescription into an easy to follow medication and diet instructions in multiple languages.
 tags:
   - UI
   - UX
