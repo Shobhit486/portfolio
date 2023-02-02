@@ -38,6 +38,13 @@ Qualitative research was done for this project. Multiple one on one semi-structu
 1. A problem people often faced was related to not able to read and understand prescriptions that they get from the doctors which has medicine names and their schedules.
 2. They fail to get knowledge about dietary information which can be crucial in illnesses and could also lead to various side effects with medicines if not taken care of.
 
+#### Secondary Insights
+
+1. Only 10% of India's population is of English readers.
+2. Around 2,50,00,000 patients consult Indian doctors on a daily basis.
+
+#### Which means according to estimation only 10% of 2,50,00,000 people are English readers which creates the barrier of language.
+
 ### Personas
 
 ![Preview not available](/images/parcha/persona.png)
