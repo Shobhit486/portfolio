@@ -13,7 +13,7 @@ order : 20
 
 # parcha
 
-Parcha is a health companion application whose sole purpose is to provide post diagnosis support to the patient. It can scan, understand and translate a medical prescription into an easy to follow medication and diet instructions in multiple languages.
+parcha is a health companion application whose sole purpose is to provide post diagnosis support to the patient. It can scan, understand and translate a medical prescription into an easy to follow medication and diet instructions in multiple languages.
 
 Across the Indian subcontinent, there exist a variety of languages, culture and levels of literacy. Every person who has ever visited a doctor for a consultation, has had a different experience. In the end, the patient is left with a piece of paper with some squiggly lines and a lot of confusion.
 
@@ -32,6 +32,11 @@ The whole process of this project i.e Discovery, Ideation and Design is done and
 Qualitative research was done for this project. Multiple one on one semi-structured interviews were conducted with ‘Healthcare providers’ and ‘Patients’ to get deep insights. Also observational study was an essential tool in this research as I had to observe and study user behaviours and what problems they faced.
 
 ![Preview not available](/images/parcha/miro.jpg)
+
+#### Primary Insights
+
+1. A problem people often faced was related to not able to read and understand prescriptions that they get from the doctors which has medicine names and their schedules.
+2. They fail to get knowledge about dietary information which can be crucial in illnesses and could also lead to various side effects with medicines if not taken care of.
 
 ### Personas
 
