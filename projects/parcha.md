@@ -13,10 +13,11 @@ order : 20
 
 # parcha
 
-Parcha is a multilingual post medical consultation service whose
-purpose is to ease the process of prescription reading
-for the patient, and provide calculated diet according
-to the diagnosis.
+Parcha is a health companion application whose sole purpose is to provide post diagnosis support to the patient. It can scan, understand and translate a medical prescription into an easy to follow medication and diet instructions in multiple languages.
+
+Across the Indian subcontinent, there exist a variety of languages, culture and levels of literacy. Every person who has ever visited a doctor for a consultation, has had a different experience. In the end, the patient is left with a piece of paper with some squiggly lines and a lot of confusion.
+
+parcha solves this confusion by conveying the content of the paper-prescription to the user. It deciphers handwritten prescribed instructions and converts them into easy-to-understand UI in the user’s preferred language. This is achieved by leveraging computer vision and machine learning. parcha also analyses multiple ongoing medications in parallel and suggests a safe and healthy diet to avoid harmful side-effects.
 
 ## MY ROLE
 
