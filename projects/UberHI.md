@@ -8,7 +8,7 @@ tags:
   - UI
   - Research
   - Accessibility & Inclusivity
-order : 16
+order : 25
 ---
 
 ## Enabling Hearing Impaired People to Navigate During a Ride
