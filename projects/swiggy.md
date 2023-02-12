@@ -13,16 +13,16 @@ order : 14
 
 # Swiggy Re-design
 
-![Preview not available](/images/swiggy-1.png)
+![Preview not available](/images/swiggy/swiggy-1.png)
 
-![Preview not available](/images/swiggy-2.png)
+![Preview not available](/images/swiggy/swiggy-2.png)
 
-![Preview not available](/images/swiggy-3.png)
+![Preview not available](/images/swiggy/swiggy-3.png)
 
-![Preview not available](/images/swiggy-4.png)
+![Preview not available](/images/swiggy/swiggy-4.png)
 
-![Preview not available](/images/swiggy-5.png)
+![Preview not available](/images/swiggy/swiggy-5.png)
 
-![Preview not available](/images/swiggy-6.png)
+![Preview not available](/images/swiggy/swiggy-6.png)
 
 
