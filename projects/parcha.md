@@ -87,7 +87,7 @@ The prescriptions provided by parcha after the scan are displayed in an easily u
 
 ## PROTOTYPE
 
-Link - https://www.figma.com/proto/b8vAx6YX73kNExSMdb4lDC/Parcha?page-id=464%3A60&node-id=464%3A678&viewport=656%2C404%2C0.11&scaling=scale-down&starting-point-node-id=464%3A678&show-proto-sidebar=1
+Link - Click here for Prototype
 
 #### OR
 
