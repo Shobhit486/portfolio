@@ -43,7 +43,7 @@ Qualitative research was done for this project. Multiple one on one semi-structu
 1. Only 10% of India's population is of English readers.
 2. Around 2,50,00,000 patients consult Indian doctors on a daily basis.
 
-#### Which means according to estimation only 10% of 2,50,00,000 people are English readers which creates the barrier of language.
+##### Which means according to estimation only 10% of 2,50,00,000 people are English readers which creates the barrier of language.
 
 ### Personas
 
