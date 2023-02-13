@@ -12,5 +12,5 @@ export const Section = styled.section`
 export const HeroSection = styled(Section)`
   padding: 10em 4em;
   background-color: ${Color.Background_Secondary};
-  height: 95vh;
+  min-height: 95vh;
 `;
