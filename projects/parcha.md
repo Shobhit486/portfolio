@@ -19,6 +19,10 @@ Across the Indian subcontinent, there exist a variety of languages, culture and 
 
 parcha solves this confusion by conveying the content of the paper-prescription to the user. It deciphers handwritten prescribed instructions and converts them into easy-to-understand UI in the user’s preferred language. This is achieved by leveraging computer vision and machine learning. parcha also analyses multiple ongoing medications in parallel and suggests a safe and healthy diet to avoid harmful side-effects.
 
+![Preview not available](/images/parcha/2.png)
+
+## There is a problem with all these prescriptions and my aim is to find and solve it.
+
 ## MY ROLE
 
 The whole process of this project i.e Discovery, Ideation and Design is done and completed by me. It was a solo project.
