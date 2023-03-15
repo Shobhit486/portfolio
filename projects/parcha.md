@@ -79,6 +79,14 @@ Patients not able to read their medical prescriptions and not able to remember t
 
 ![Preview not available](/images/parcha/2.png)
 
+#### Parts of a Prescription
+
+![Preview not available](/images/parcha/parts.png)
+
+### How pharmacists explain medicine.
+
+![Preview not available](/images/parcha/medicine.png)
+
 ## SOLUTION
 
 ![Preview not available](/images/parcha/Parcha.png "scan prescription")
