@@ -37,14 +37,14 @@ The whole process of this project i.e Discovery, Ideation and Design is done and
 
 Qualitative research was done for this project. Multiple one on one semi-structured interviews were conducted with ‘Healthcare providers’ and ‘Patients’ to get deep insights. Also observational study was an essential tool in this research as I had to observe and study user behaviours and what problems they faced.
 
-![Preview not available](/images/parcha/miro.jpg)
+![Preview not available](/images/parcha/miro.png)
 
 #### Primary Insights
 
 1. A problem people often faced was related to not able to read and understand prescriptions that they get from the doctors which has medicine names and their schedules.
 2. They fail to get knowledge about dietary information which can be crucial in illnesses and could also lead to various side effects with medicines if not taken care of.
 
-![Preview not available](/images/parcha/Pinsights.jpg)
+![Preview not available](/images/parcha/Pinsights.png)
 
 #### Secondary Insights
 
