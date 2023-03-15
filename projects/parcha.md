@@ -19,6 +19,8 @@ Across the Indian subcontinent, there exist a variety of languages, culture and 
 
 parcha solves this confusion by conveying the content of the paper-prescription to the user. It deciphers handwritten prescribed instructions and converts them into easy-to-understand UI in the user’s preferred language. This is achieved by leveraging computer vision and machine learning. parcha also analyses multiple ongoing medications in parallel and suggests a safe and healthy diet to avoid harmful side-effects.
 
+### Some prescriptions
+
 ![Preview not available](/images/parcha/2.png)
 
 ## There is a problem with all these prescriptions and my aim is to find and solve it.
@@ -31,7 +33,7 @@ The whole process of this project i.e Discovery, Ideation and Design is done and
 
 ![Preview not available](/images/parcha/user-centered.png)
 
-## USER RESEARCH
+## USER RESEARCH & INSIGHTS
 
 Qualitative research was done for this project. Multiple one on one semi-structured interviews were conducted with ‘Healthcare providers’ and ‘Patients’ to get deep insights. Also observational study was an essential tool in this research as I had to observe and study user behaviours and what problems they faced.
 
@@ -42,6 +44,8 @@ Qualitative research was done for this project. Multiple one on one semi-structu
 1. A problem people often faced was related to not able to read and understand prescriptions that they get from the doctors which has medicine names and their schedules.
 2. They fail to get knowledge about dietary information which can be crucial in illnesses and could also lead to various side effects with medicines if not taken care of.
 
+![Preview not available](/images/parcha/Pinsights.jpg)
+
 #### Secondary Insights
 
 1. Only 10% of India's population is of English readers.
@@ -51,7 +55,9 @@ Qualitative research was done for this project. Multiple one on one semi-structu
 
 ### Personas
 
-![Preview not available](/images/parcha/persona.png)
+![Preview not available](/images/parcha/persona1.png)
+
+![Preview not available](/images/parcha/persona2.png)
 
 #### Where?
 
