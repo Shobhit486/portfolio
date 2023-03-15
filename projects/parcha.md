@@ -53,11 +53,13 @@ Qualitative research was done for this project. Multiple one on one semi-structu
 
 ##### Which means according to estimation only 10% of 2,50,00,000 people are English readers which creates the barrier of language.
 
-### Personas
+### User Persona & Jounrey Map
 
 ![Preview not available](/images/parcha/persona1.png)
 
 ![Preview not available](/images/parcha/persona2.png)
+
+![Preview not available](/images/parcha/userjourney.png)
 
 #### Where?
 
@@ -72,6 +74,10 @@ The timeline on which I worked was from 18th April 2022 - 4th June 2022 that is 
 #### Why?
 
 Patients not able to read their medical prescriptions and not able to remember their medicine schedule given by the doctor and no dietary knowledge in illness.
+
+![Preview not available](/images/parcha/why.png)
+
+![Preview not available](/images/parcha/2.png)
 
 ## SOLUTION
 
