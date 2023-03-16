@@ -1,8 +1,8 @@
 ---
 id: swiggy
 name: Swiggy Re-design
-image: /images/swiggycover.png
-hero: /images/Swiggy-cover.png
+image: /images/swiggy/swiggycover.png
+hero: /images/swiggy/Swiggy-cover.png
 description: A re-design of Swiggy Homepage.
 tags:
   - UX
